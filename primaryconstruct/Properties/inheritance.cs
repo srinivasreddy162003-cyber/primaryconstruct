@@ -51,5 +51,6 @@ namespace primaryconstruct.Properties
             student obj = new student(1, "Nikhil", "VIT");
             obj.studentdisplay();
         }
+        Console.ReadLine();
     }
 }
